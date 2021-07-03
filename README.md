@@ -1,6 +1,6 @@
 ### Hello 👋👋
 I am an Indonesian Data Scientist/Geoscientist who mainly speaks Python :snake:. I have 5 years experiences in hazard mitigation and oil & gas industries.
-- 🔭 Currently working on 
+- 🔭 Currently working on some projects related to earth science and technology
 - Looking to collaborate on:
   <br>
   :white_check_mark: Geophysical Data Processing/Enhancement
@@ -14,6 +14,7 @@ I am an Indonesian Data Scientist/Geoscientist who mainly speaks Python :snake:.
   <br>
   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mordekhai/)
   [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dekha51)
+  [<img align="left" alt="medium" src="https://img.shields.io/badge/Website-Geovartha.id-orange" />](https://geovartha.id)
 
 <!--
 **dekha51/dekha51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
