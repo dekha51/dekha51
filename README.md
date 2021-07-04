@@ -4,13 +4,13 @@
 - 🔭 Currently working on some projects related to earth science and technology
 - 👯 Looking to collaborate on:
   <br>
-  :white_check_mark: Geophysical Data Processing/Enhancement
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: Geophysical Data Processing/Enhancement
   <br>
-  :white_check_mark: Machine Learning in Well Log and Seismic Data
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: Machine Learning in Well Log and Seismic Data
   <br>
-  :white_check_mark: Spatial Data Mapping/Prediction
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: Spatial Data Mapping/Prediction
   <br>
-  :white_check_mark: Catastrophe Risk Modelling.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: Catastrophe Risk Modelling.
 - 📫 Let's Connect!
   <br>
   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mordekhai/)
