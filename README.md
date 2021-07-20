@@ -21,11 +21,11 @@
 ---------------------
 #### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gravity Data Processing in Python: A Step-By-Step Guide](https://python.plainenglish.io/gravity-data-processing-in-python-a-step-by-step-guide-57db4756d056?source=rss-b8b6e40697fb------2)
 - [A Geologist’s Introduction to Object-Oriented Programming in Python](https://medium.com/pythonland/a-geologists-introduction-to-object-oriented-programming-in-python-3ba51f55ebbc?source=rss-b8b6e40697fb------2)
 - [Simple EDV & Two Way ANOVA Applications in Core Sample Data](https://ai.plainenglish.io/simple-edv-two-way-anova-applications-in-core-sample-data-acf83213071b?source=rss-b8b6e40697fb------2)
 - [Creating Presentable Data Visualization with Altair](https://medium.com/codex/creating-presentable-data-visualization-with-altair-5a3286e697ab?source=rss-b8b6e40697fb------2)
 - [Linear vs Non-Linear Dimensionality Reduction in Well Log Data](https://ai.plainenglish.io/linear-vs-non-linear-dimensionality-reduction-in-well-log-data-8c40859c9616?source=rss-b8b6e40697fb------2)
-- [Hypothesis Testing for Determining Facies Data Distribution](https://ai.plainenglish.io/hypothesis-testing-for-determining-facies-data-distribution-a3965f0b7849?source=rss-b8b6e40697fb------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **dekha51/dekha51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
