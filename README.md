@@ -1,5 +1,5 @@
 ### Hi, I'm Dekha 👋👋
-#### I'm an Indonesian Data Scientist/Geoscientist who mainly speaks Python :snake:, 5-years exp in hazard mitigation and energy industries.
+#### I'm an Indonesian Data Scientist/Geoscientist who mainly speaks Python :snake:
 ------------------
 - 🔭 Currently working on some projects related to earth science and technology
 - 👯 Looking to collaborate on:
